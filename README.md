@@ -1,8 +1,8 @@
-Name: Akshitha nayini
-domain:full stack web developer 
-id:JFDIT111
-duration:April 15 to July 15
-mentor:nisar Ahmed
+Name: Akshitha nayini.
+Domain:full stack web developer.
+Id:JFDIT111.
+Duration:April 15 to July 15.
+Mentor:nisar Ahmed.
 
 title: blogging platform 
 introduction 
